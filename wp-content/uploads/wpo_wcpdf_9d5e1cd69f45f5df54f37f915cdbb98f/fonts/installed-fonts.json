@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/OpenSans-Normal",
+        "bold": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/OpenSans-Bold",
+        "italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/Segoe-Normal",
+        "bold": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/Segoe-Bold",
+        "italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/Segoe-Italic",
+        "bold_italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/RobotoSlab-Normal",
+        "bold": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/RobotoSlab-Bold",
+        "italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/currencies",
+        "bold": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/currencies",
+        "italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/currencies",
+        "bold_italic": "\/Users\/ahwai\/Local Sites\/chewyo\/app\/public\/wp-content\/uploads\/wpo_wcpdf_9d5e1cd69f45f5df54f37f915cdbb98f\/fonts\/currencies"
+    }
+}
